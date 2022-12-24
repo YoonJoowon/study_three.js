@@ -50,12 +50,12 @@ nav{
 
 section{
     width: 80%;
-    float: left;
+    float: left
 }
 
 article{
     width: 50%;
-    background-color: rgb(166, 166, 64);
+    background-color: rgb(123, 123, 57);
 }
 
 aside{
