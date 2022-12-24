@@ -38,6 +38,7 @@ nav{
     width: 70px;
 }
 
+
 #topMenu > li >ul {
     position: absolute;
     display: none;
@@ -53,6 +54,7 @@ section{
     float: left
 }
 
+
 article{
     width: 50%;
     background-color: rgb(115, 115, 58);
@@ -62,8 +64,6 @@ aside{
     width: 20%;
     height: 700px;
 }
-
-
 
 div{
     display: flex;
