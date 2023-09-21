@@ -61,8 +61,8 @@ export default function example() {
 	gsap.to(
 		mesh.position,
 		{
-			duration: 1,
-			y: 2,
+			duration: 3,
+			y: 1,
 			z: 3
 		}
 	);
