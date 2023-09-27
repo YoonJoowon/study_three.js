@@ -92,6 +92,5 @@ export default function example() {
 
 	// 이벤트
 	window.addEventListener('resize', setSize);
-
 	draw();
 }
