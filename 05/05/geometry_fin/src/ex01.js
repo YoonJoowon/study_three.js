@@ -69,4 +69,3 @@ export default function example() {
 	window.addEventListener('resize', setSize);
 	draw();
 }
-
